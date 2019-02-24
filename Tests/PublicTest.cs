@@ -11,3 +11,4 @@ namespace PadawansTask4.Tests
         public int GetVowelCountTests(string source) => StringHelper.GetVowelCount(source);
     }
 }
+
